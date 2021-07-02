@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gibran</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails and Bootstrap**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **gibran.lamarca@engenharia.ufjf.br**
 

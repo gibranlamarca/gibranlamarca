@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 📫 How to reach me **gibran.lamarca@engenharia.ufjf.br**
+- 📫 How to reach me **gibran.millen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
